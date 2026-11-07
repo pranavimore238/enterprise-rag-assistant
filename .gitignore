@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+chroma_db/
+.streamlit/secrets.toml
+.DS_Store
+data/sample_documents/
+*_backup.py
